@@ -1,0 +1,14 @@
+h1 {
+    font-style: italic;
+    color: red;
+}
+
+p {
+    font-style: italic;
+    color: goldenrod;
+}
+
+h3 { 
+   font-style: italic;
+   color: rgb(64, 3, 3);
+}
